@@ -46,7 +46,7 @@ export default function Reels() {
   return (
     <div>
 {!showForm && (
-  <div>
+  <div className='bg-white'>
 
 {/* Section 1 */}
 <section className="text-gray-600 bg-gray-200 body-font" data-aos="fade-right">
