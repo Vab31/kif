@@ -23,7 +23,7 @@ export default function Nav() {
           </nav>
 
           {/* Contact Button */}
-          <a href="https://forms.gle/h5ZjqrjVRYNTPaNMA" className="flex justify-center sm:my-0 my-2">
+          <a href="" className="flex justify-center sm:my-0 my-2">
             <button className="inline-flex items-center bg-indigo-500 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-700 rounded text-base">
               Contact Us
             </button>
