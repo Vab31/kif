@@ -9,9 +9,10 @@ import { Autoplay } from 'swiper/modules';
 
 const HeroSlider = () => {
   const slides = [
-    { src: '/images/slider1.png', text: 'Empowering Future Innovators' },
-    { src: '/images/slider2.png', text: 'Bridging the Gap with Technology' },
-    { src: '/images/slider3.png', text: 'Unlocking Potential with Knowledge' },
+    { src: '/images/slider1.png', text: 'Playing for a Purpose: Empowering Every Learner' },
+    { src: '/images/slider2.png', text: 'The Keys to Inclusion Begin with a Single Note' },
+    { src: '/images/slider3.png', text: 'Raising Hope Through Every Piano Melody' },
+    
   ];
 
   return (
