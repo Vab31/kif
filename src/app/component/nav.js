@@ -19,7 +19,7 @@ export default function Nav() {
           <nav className="flex flex-wrap justify-center space-x-4 text-base order-last md:order-none font-bold">
             <a className="hover:text-gray-900" href='/'>Home</a>
             <a className="hover:text-gray-900" href='/us'>About Us</a>
-            <a className="hover:text-gray-900" href='/finance_short'>Finance Video</a>
+            <a className="hover:text-gray-900" href='/clip'>Clips</a>
           </nav>
 
        
