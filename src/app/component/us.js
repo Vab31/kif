@@ -14,7 +14,7 @@ export default function Us() {
         <div className="relative flex items-center justify-center h-full text-center px-5">
           <div>
             <h1 className="text-green-600 text-4xl sm:text-6xl font-bold mb-4">
-            The Key to Inclusion – A Music-Fueled Mission Celebrating Differences and Empowering Every Mind
+            The Keys to Inclusion – Playing Piano to Champion Inclusion and Uplift Lives of the Differently-Abled
             </h1>
             
           </div>
@@ -34,17 +34,9 @@ export default function Us() {
     </div>
     <div> */}
       <p className="font-medium my-4 text-xl mx-4 sm:mx-10 md:mx-20 lg:mx-28 xl:mx-36 leading-relaxed text-center text-gray-900">
-      I'm Saesha, a 9th-grade student with a deep love for playing the piano. But beyond the melodies, I believe music can be a bridge to something greater—inclusion, empathy, and opportunity.
+     
 
-That’s why I started the Key to Inclusion Fund.
-
-Every note I play is part of a bigger mission: to raise awareness and funds for students who are mentally challenged or slow learners. These students often go unnoticed, underserved, and misunderstood. Through this fund, I aim to provide them with better learning resources, access to specialized tools, and a voice that reminds the world—they matter.
-
-Whether it’s contributing to a special education classroom, funding personalized learning materials, or simply sparking a conversation—your support helps turn every piano key into a key to change.
-
-Together, let’s make the world a more inclusive place—one note at a time.
-
-
+      Saesha, a passionate 9th-grade student, believes that music holds the power to create real change. Through her heartfelt initiative, the Keys to Inclusion Fund, she uses her piano talent to raise awareness and support for individuals of all age groups who are mentally challenged, have learning disabilities, or live with other forms of cognitive differences. Her mission goes beyond notes and melodies — it’s about building a world where inclusion isn’t just a concept, but a shared reality. Every performance she gives is a step toward empowering people who learn and grow differently, ensuring they have access to the resources, care, and opportunities they deserve. The funds raised go directly into programs that promote inclusive education, emotional well-being, and lifelong learning support. With every key she touches, Saesha is opening hearts — and unlocking brighter futures for all.
             </p>
 
       {/* </div> */}
