@@ -5,6 +5,7 @@ import Hero from "./component/hero";
 import Finance from "./component/finance";
 import Footer from "./component/footer";
 import Reels from "./component/reels";
+import Saesha from "./component/saesha";
 
 export default function Home() {
   return (
@@ -12,8 +13,9 @@ export default function Home() {
      <Nav/>
      <HeroSlider/>
      <Hero/>
+     <Saesha/>
      <Reels/>
-     <Finance/>
+     {/* <Finance/> */}
      <Footer/>
     </div>
   );

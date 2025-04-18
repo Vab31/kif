@@ -3,7 +3,7 @@ import React from 'react';
 export default function Nav() {
   return (
     <div>
-      <header className="text-white body-font bg-amber-700">
+      <header className="text-green-600 body-font bg-white">
         <div className="container mx-auto flex flex-col md:flex-row items-center justify-between p-5 space-y-4 md:space-y-0">
           
           {/* Logo */}
@@ -16,18 +16,13 @@ export default function Nav() {
           </a>
 
           {/* Navigation Links */}
-          <nav className="flex flex-wrap justify-center space-x-4 text-base order-last md:order-none">
+          <nav className="flex flex-wrap justify-center space-x-4 text-base order-last md:order-none font-bold">
             <a className="hover:text-gray-900" href='/'>Home</a>
             <a className="hover:text-gray-900" href='/us'>About Us</a>
             <a className="hover:text-gray-900" href='/finance_short'>Finance Video</a>
           </nav>
 
-          {/* Contact Button */}
-          <a href="" className="flex justify-center sm:my-0 my-2">
-            <button className="inline-flex items-center bg-indigo-500 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-700 rounded text-base">
-              Contact Us
-            </button>
-          </a>
+       
         </div>
       </header>
     </div>

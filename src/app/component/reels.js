@@ -52,7 +52,7 @@ export default function Reels() {
 <section className="text-gray-600 bg-gray-200 body-font" data-aos="fade-right">
   <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-      <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-amber-700">
+      <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-green-700">
         Before they sold out
         <br className="hidden lg:inline-block" />
         readymade gluten
@@ -94,7 +94,7 @@ export default function Reels() {
       </div>
     </div>
     <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
-      <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-amber-700">
+      <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-green-600">
         Before they sold out
         <br className="hidden lg:inline-block" />
         readymade gluten
@@ -113,7 +113,7 @@ export default function Reels() {
 </section>
 
 {/* Section 3 */}
-<section className="text-gray-600 bg-gray-200 body-font" data-aos="fade-right">
+{/* <section className="text-gray-600 bg-gray-200 body-font" data-aos="fade-right">
   <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
       <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-amber-700">
@@ -142,7 +142,7 @@ export default function Reels() {
       </div>
     </div>
   </div>
-</section>
+</section> */}
 
 </div>
 

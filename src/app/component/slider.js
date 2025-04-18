@@ -36,7 +36,7 @@ const HeroSlider = () => {
             />
             {/* Overlay Text */}
             <div className="absolute inset-0 flex flex-col justify-center items-center text-center px-6">
-              <h2 className="text-amber-700  text-3xl md:text-5xl font-extrabold drop-shadow-lg">
+              <h2 className="text-green-700  text-3xl md:text-5xl font-extrabold drop-shadow-lg">
                 {slide.text}
               </h2>
             </div>
