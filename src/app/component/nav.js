@@ -11,7 +11,7 @@ export default function Nav() {
             <img
               src="/images/logo.png"
               alt="Logo"
-              className="w-20 h-10 sm:w-24 sm:h-5 md:w-28 md:h-14 lg:w-32 lg:h-16 object-contain"
+              className="w-28 h-15 sm:w-32 sm:h-10 md:w-28 md:h-20 lg:w-32 lg:h-16 object-contain"
             />
           </a>
 
